@@ -1,0 +1,15 @@
+sanic==20.12.2
+Sanic-Cors==0.10.0.post3
+aiohttp
+
+click==7.1.*
+aiologger==0.6.0
+
+opencv-python==4.5.1.48
+
+Pillow==8.1.2
+pytesseract==0.3.7
+
+imutils==0.5.4
+matplotlib==3.3.4
+google-cloud-vision
